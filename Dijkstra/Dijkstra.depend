@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1739840580 source:g:\outros computadores\meu laptop\kevenn.pasta\projects-estudar\codeblocks\tp\tp-ultimo\dijkstra\main.cpp
+	<iostream>
+	<clocale>
+	"graph.h"
+
+1739841935 source:g:\outros computadores\meu laptop\kevenn.pasta\projects-estudar\codeblocks\tp\tp-ultimo\dijkstra\src\graph.cpp
+	"graph.h"
+
+1739841904 g:\outros computadores\meu laptop\kevenn.pasta\projects-estudar\codeblocks\tp\tp-ultimo\dijkstra\include\graph.h
+	<iostream>
+	<vector>
+	<queue>
+	<limits>
+	<utility>
+	<functional>
+	<stack>
+	"vertex.h"
+
+1739226944 g:\outros computadores\meu laptop\kevenn.pasta\projects-estudar\codeblocks\tp\tp-ultimo\dijkstra\include\vertex.h
+
+1739227089 g:\outros computadores\meu laptop\kevenn.pasta\projects-estudar\codeblocks\tp\tp-ultimo\dijkstra\src\graph.cpp
+	"graph.h"
+
