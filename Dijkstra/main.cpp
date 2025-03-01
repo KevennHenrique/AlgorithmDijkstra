@@ -37,7 +37,7 @@ int main()
     cin >> start;
 
     g.dijkstra(start);
-    //g.printShortestDistance();
+    //g.printShortestDistance();    //nao foi necessario
     g.printShortestPaths(start);
 
     return 0;
